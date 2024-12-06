@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState } from 'react'//remove this import
 import HomePage from './pages/HomePage'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
